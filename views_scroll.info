@@ -1,0 +1,4 @@
+name = Views Scroll
+description = Add's an id to all rows in a html list view and activates smooth scrolling.
+core = 7.x
+scripts[] = js/views_scroll.js
